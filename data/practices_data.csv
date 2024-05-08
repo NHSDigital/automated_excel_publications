@@ -1,0 +1,157 @@
+geog_name,count_of_included_practice,count_of_open_practice,geog_code,patient_list_size,geog_ons_code,breakdown,geog_type
+England,4870,6511,ENG,47905781,ENG,national_counts_by_geog,National
+NHS Lincolnshire CCG,76,83,71E,730382,E38000238,by_ccg,CCG
+"NHS Bedfordshire, Luton and Milton Keynes CCG",87,97,M1J4Y,1022467,E38000249,by_ccg,CCG
+NHS Stoke on Trent CCG,18,38,05W,129711,E38000175,by_ccg,CCG
+NHS North Staffordshire CCG,14,30,05G,114285,E38000126,by_ccg,CCG
+NHS Wirral CCG,45,47,12F,332641,E38000208,by_ccg,CCG
+NHS Bassetlaw CCG,9,9,02Q,122423,E38000008,by_ccg,CCG
+NHS St Helens CCG,19,31,01X,133013,E38000172,by_ccg,CCG
+NHS Trafford CCG,10,27,02A,94222,E38000187,by_ccg,CCG
+NHS Cannock Chase CCG,13,23,04Y,91725,E38000028,by_ccg,CCG
+NHS Brighton and Hove CCG,26,33,09D,262524,E38000021,by_ccg,CCG
+NHS Salford CCG,26,38,01G,213540,E38000143,by_ccg,CCG
+NHS Black Country and West Birmingham CCG,129,205,D2P2L,967181,E38000250,by_ccg,CCG
+NHS Chorley and South Ribble CCG,21,26,00X,161226,E38000034,by_ccg,CCG
+NHS East Riding of Yorkshire CCG,26,30,02Y,286465,E38000052,by_ccg,CCG
+NHS Bolton CCG,41,49,00T,294454,E38000016,by_ccg,CCG
+NHS West Leicestershire CCG,42,46,04V,379551,E38000201,by_ccg,CCG
+NHS Blackburn with Darwen CCG,9,22,00Q,71251,E38000014,by_ccg,CCG
+NHS North East London CCG,119,275,A3A8R,1087317,E38000255,by_ccg,CCG
+NHS Liverpool CCG,27,87,99A,204011,E38000101,by_ccg,CCG
+NHS Stafford and Surrounds CCG,12,14,05V,131408,E38000173,by_ccg,CCG
+NHS Cheshire CCG,69,79,27D,698091,E38000233,by_ccg,CCG
+NHS East Lancashire CCG,34,48,01A,292767,E38000050,by_ccg,CCG
+NHS Sheffield CCG,71,76,03N,571884,E38000146,by_ccg,CCG
+NHS West Essex CCG,22,30,07H,225814,E38000197,by_ccg,CCG
+"NHS Heywood, Middleton and Rochdale CCG",23,41,01D,167808,E38000080,by_ccg,CCG
+NHS Buckinghamshire CCG,33,48,14Y,409444,E38000223,by_ccg,CCG
+NHS Shropshire and Telford and Wrekin CCG,42,52,M2L0M,372155,E38000257,by_ccg,CCG
+NHS Tameside and Glossop CCG,34,36,01Y,236349,E38000182,by_ccg,CCG
+NHS Bury CCG,8,25,00V,58169,E38000024,by_ccg,CCG
+NHS Newcastle Gateshead CCG,52,60,13T,431779,E38000212,by_ccg,CCG
+NHS Oxfordshire CCG,51,67,10Q,597495,E38000136,by_ccg,CCG
+NHS Northumberland CCG,37,38,00L,331902,E38000130,by_ccg,CCG
+NHS North Tyneside CCG,24,26,99C,214965,E38000127,by_ccg,CCG
+NHS Herefordshire CCG,74,79,18C,774348,E38000236,by_ccg,CCG
+NHS Dorset CCG,73,73,11J,820742,E38000045,by_ccg,CCG
+NHS Norfolk and Waveney CCG,104,106,26A,1076306,E38000239,by_ccg,CCG
+NHS Cambridgeshire and Peterborough CCG,80,90,06H,919796,E38000026,by_ccg,CCG
+NHS Southend CCG,19,25,99G,172360,E38000168,by_ccg,CCG
+NHS Herts Valley CCG,30,53,06N,438619,E38000079,by_ccg,CCG
+NHS Portsmouth CCG,11,13,10R,187014,E38000137,by_ccg,CCG
+NHS Northamptonshire CCG,54,68,78H,665344,E38000242,by_ccg,CCG
+NHS Sunderland CCG,27,39,00P,217342,E38000176,by_ccg,CCG
+NHS East Staffordshire CCG,13,18,05D,123706,E38000053,by_ccg,CCG
+NHS Knowsley CCG,10,25,01J,92930,E38000091,by_ccg,CCG
+NHS Basildon and Brentwood CCG,33,35,99E,277814,E38000007,by_ccg,CCG
+NHS South West London CCG,95,179,36L,995409,E38000245,by_ccg,CCG
+NHS Somerset CCG,60,64,11X,562909,E38000150,by_ccg,CCG
+NHS South East Staffordshire and Seisdon Peninsula CCG,16,23,05Q,176586,E38000153,by_ccg,CCG
+NHS Castle Point and Rochford CCG,19,23,99F,165949,E38000030,by_ccg,CCG
+NHS Ipswich and East Suffolk CCG,34,36,06L,413417,E38000086,by_ccg,CCG
+NHS Blackpool CCG,16,17,00R,176533,E38000015,by_ccg,CCG
+NHS North East Lincolnshire CCG,20,24,03H,154637,E38000119,by_ccg,CCG
+NHS North East Essex CCG,28,33,06T,329031,E38000117,by_ccg,CCG
+NHS South Tyneside CCG,12,21,00N,87265,E38000163,by_ccg,CCG
+NHS Manchester CCG,52,83,14L,425189,E38000217,by_ccg,CCG
+NHS Surrey Heartlands CCG,80,104,92A,898354,E38000246,by_ccg,CCG
+NHS Morecambe Bay CCG,28,32,01K,341002,E38000228,by_ccg,CCG
+NHS Kirklees CCG,60,65,X2C4Y,418189,E38000254,by_ccg,CCG
+NHS Frimley CCG,38,73,D4U1Y,484867,E38000252,by_ccg,CCG
+NHS East Leicestershire and Rutland CCG,28,31,03W,342254,E38000051,by_ccg,CCG
+NHS Wigan Borough CCG,33,58,02H,195526,E38000205,by_ccg,CCG
+NHS Devon CCG,116,121,15N,1213858,E38000230,by_ccg,CCG
+NHS Halton CCG,9,14,01F,100229,E38000068,by_ccg,CCG
+NHS Bradford District and Craven CCG,61,62,36J,641734,E38000232,by_ccg,CCG
+NHS County Durham CCG,58,61,84H,514501,E38000234,by_ccg,CCG
+NHS North West London CCG,257,351,W2U3Z,1894541,E38000256,by_ccg,CCG
+NHS Thurrock CCG,20,27,07G,155863,E38000185,by_ccg,CCG
+NHS Kernow CCG,56,57,11N,594288,E38000089,by_ccg,CCG
+NHS Southport and Formby CCG,12,16,01V,97094,E38000170,by_ccg,CCG
+NHS Doncaster CCG,32,37,02X,295610,E38000044,by_ccg,CCG
+"NHS Bath and North East Somerset, Swindon and Wiltshire CCG",85,89,92G,946227,E38000231,by_ccg,CCG
+NHS East Sussex CCG,50,52,97R,553958,E38000235,by_ccg,CCG
+NHS Barnsley CCG,27,32,02P,237522,E38000006,by_ccg,CCG
+"NHS Hampshire, Southampton and Isle of Wight CCG",108,128,D9Y0V,1356238,E38000253,by_ccg,CCG
+NHS West Suffolk CCG,22,24,07K,245228,E38000204,by_ccg,CCG
+NHS Gloucestershire CCG,70,72,11M,671500,E38000062,by_ccg,CCG
+NHS North Yorkshire CCG,49,51,42D,429480,E38000241,by_ccg,CCG
+NHS Hull CCG,30,32,03F,298622,E38000085,by_ccg,CCG
+"NHS Bristol, North Somerset and South Gloucestershire CCG",66,77,15C,916115,E38000222,by_ccg,CCG
+NHS Derby and Derbyshire CCG,108,111,15M,1045507,E38000229,by_ccg,CCG
+NHS Mid Essex CCG,38,41,06Q,403684,E38000106,by_ccg,CCG
+NHS Kent and Medway CCG,141,191,91Q,1536543,E38000237,by_ccg,CCG
+NHS Vale of York CCG,22,26,03Q,278260,E38000188,by_ccg,CCG
+NHS East and North Hertfordshire CCG,43,52,06K,551157,E38000049,by_ccg,CCG
+NHS North Lincolnshire CCG,18,19,03K,180819,E38000122,by_ccg,CCG
+NHS Leicester City CCG,51,56,04C,407981,E38000097,by_ccg,CCG
+NHS West Sussex CCG,70,75,70F,886929,E38000248,by_ccg,CCG
+NHS South East London CCG,78,200,72Q,811860,E38000244,by_ccg,CCG
+NHS North Cumbria CCG,35,35,01H,329670,E38000215,by_ccg,CCG
+NHS Greater Preston CCG,11,22,01E,132662,E38000227,by_ccg,CCG
+NHS Birmingham and Solihull CCG,104,160,15E,1032193,E38000220,by_ccg,CCG
+NHS West Lancashire CCG,12,15,02G,95890,E38000200,by_ccg,CCG
+NHS Fylde and Wyre CCG,17,19,02M,174591,E38000226,by_ccg,CCG
+NHS Oldham CCG,24,38,00Y,178126,E38000135,by_ccg,CCG
+NHS Nottingham and Nottinghamshire CCG,116,124,52R,1056769,E38000243,by_ccg,CCG
+NHS Wakefield CCG,33,34,03R,386548,E38000190,by_ccg,CCG
+NHS Coventry and Warwickshire CCG,52,120,B2M3M,493570,E38000251,by_ccg,CCG
+NHS Tees Valley CCG,79,81,16C,716278,E38000247,by_ccg,CCG
+NHS Calderdale CCG,21,22,02T,222705,E38000025,by_ccg,CCG
+NHS Leeds CCG,84,91,15F,807672,E38000225,by_ccg,CCG
+NHS Rotherham CCG,28,28,03L,267093,E38000141,by_ccg,CCG
+NHS North Central London CCG,53,186,93C,446993,E38000240,by_ccg,CCG
+NHS Berkshire West CCG,34,45,15A,447973,E38000221,by_ccg,CCG
+NHS South Sefton CCG,6,30,01T,38282,E38000161,by_ccg,CCG
+NHS Warrington CCG,19,26,02E,189594,E38000194,by_ccg,CCG
+NHS Stockport CCG,29,35,01W,251967,E38000174,by_ccg,CCG
+South East,642,829,Y59,7621339,E40000005,by_region,Region
+London,602,1191,Y56,5236120,E40000003,by_region,Region
+Midlands,962,1281,Y60,9034656,E40000008,by_region,Region
+North East and Yorkshire,915,999,Y63,8443365,E40000009,by_region,Region
+South West,526,553,Y58,5725639,E40000006,by_region,Region
+North West,644,986,Y62,5447157,E40000010,by_region,Region
+East of England,579,672,Y61,6397505,E40000007,by_region,Region
+Frimley Health and Care ICS,38,73,QNQ,484867,E54000034,by_stp,STP
+Cornwall and the Isles of Scilly Health and Social Care Partnership,56,57,QT6,594288,E54000036,by_stp,STP
+South West London Health and Care Partnership,95,179,QWE,995409,E54000031,by_stp,STP
+Lincolnshire,76,83,QJM,730382,E54000013,by_stp,STP
+Healthier Lancashire and South Cumbria,148,201,QE1,1445922,E54000048,by_stp,STP
+Norfolk and Waveney Health and Care Partnership,104,106,QMM,1076306,E54000022,by_stp,STP
+Coventry and Warwickshire,52,120,QWU,493570,E54000018,by_stp,STP
+East London Health and Care Partnership,119,275,QMF,1087317,E54000029,by_stp,STP
+The Black Country and West Birmingham,129,205,QUA,967181,E54000016,by_stp,STP
+Hertfordshire and West Essex,95,135,QM7,1215590,E54000025,by_stp,STP
+Herefordshire and Worcestershire,74,79,QGH,774348,E54000019,by_stp,STP
+Sussex and East Surrey Health and Care Partnership,146,160,QNX,1703411,E54000053,by_stp,STP
+Kent and Medway,141,191,QKS,1536543,E54000032,by_stp,STP
+Devon,116,121,QJK,1213858,E54000037,by_stp,STP
+Suffolk and North East Essex,84,93,QJG,987676,E54000023,by_stp,STP
+North London Partners in Health and Care,53,186,QMJ,446993,E54000028,by_stp,STP
+"Bath and North East Somerset, Swindon and Wiltshire",85,89,QOX,946227,E54000040,by_stp,STP
+Somerset,60,64,QSL,562909,E54000038,by_stp,STP
+Cambridgeshire and Peterborough,80,90,QUE,919796,E54000021,by_stp,STP
+Mid and South Essex,129,151,QH8,1175670,E54000026,by_stp,STP
+Our Healthier South East London,78,200,QKK,811860,E54000030,by_stp,STP
+Hampshire and the Isle of Wight,119,141,QRL,1543252,E54000042,by_stp,STP
+Cheshire and Merseyside,216,355,QYG,1885885,E54000008,by_stp,STP
+"Humber, Coast and Vale",165,182,QOQ,1628283,E54000051,by_stp,STP
+"Buckinghamshire, Oxfordshire and Berkshire West",118,160,QU9,1454912,E54000044,by_stp,STP
+Gloucestershire,70,72,QR1,671500,E54000043,by_stp,STP
+West Yorkshire and Harrogate (Health and Care Partnership),259,274,QWO,2476848,E54000054,by_stp,STP
+Staffordshire and Stoke on Trent,86,146,QNC,767421,E54000010,by_stp,STP
+Dorset,73,73,QVV,820742,E54000041,by_stp,STP
+Cumbria and North East,324,361,QHM,2843702,E54000050,by_stp,STP
+Surrey Heartlands Health and Care Partnership,80,104,QXU,898354,E54000052,by_stp,STP
+"Bristol, North Somerset and South Gloucestershire",66,77,QUY,916115,E54000039,by_stp,STP
+"Bedfordshire, Luton and Milton Keynes",87,97,QHG,1022467,E54000024,by_stp,STP
+Greater Manchester Health and Social Care Partnership,280,430,QOP,2115350,E54000007,by_stp,STP
+Birmingham and Solihull,104,160,QHL,1032193,E54000017,by_stp,STP
+Joined Up Care Derbyshire,108,111,QJ2,1045507,E54000012,by_stp,STP
+Nottingham and Nottinghamshire Health and Care,116,124,QT1,1056769,E54000014,by_stp,STP
+South Yorkshire and Bassetlaw,167,182,QF7,1494532,E54000009,by_stp,STP
+Northamptonshire,54,68,QPM,665344,E54000020,by_stp,STP
+North West London Health and Care Partnership,257,351,QRV,1894541,E54000027,by_stp,STP
+Shropshire and Telford and Wrekin,42,52,QOC,372155,E54000011,by_stp,STP
+"Leicester, Leicestershire and Rutland",121,133,QK1,1129786,E54000015,by_stp,STP
